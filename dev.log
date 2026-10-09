@@ -1,0 +1,13 @@
+
+> uma-cafe@0.1.0 dev
+> next dev
+
+▲ Next.js 16.4.0 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.100.96:3000
+✓ Ready in 451ms
+✓ Running next.config.ts took 154ms
+- Cache Components enabled
+- Partial Prefetching enabled
+
+ GET / 200 in 207ms (next.js: 109ms, application-code: 98ms)
